@@ -1,4 +1,4 @@
-# vue-second-app
+# vue-tailwindcss
 
 ## Project setup
 ```
